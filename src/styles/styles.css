@@ -1,0 +1,151 @@
+body{
+    background-color: #151719 ;
+}
+
+/* Sttylling header component */
+
+.header #header-content{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+}
+.header .navlinks button{
+     margin-left: 35px;
+
+}
+.navlinks a{
+    color: white;
+}
+
+/* stylling for landing pagee */
+.landing #landing-content{
+    color: white;
+  padding: 10px;
+  font-size: large;
+}
+
+.landing #landing-content p{
+    padding: 10px;
+}
+.landing #landing-content img{
+    margin-top: 15px;
+}
+
+/* Stylling fopr build page */
+.build #build-content{
+    color: white;
+    padding: 10px;
+    /* font-size: 3em; */
+}
+.build #build-content h1{
+    font-size: 3em;
+}
+.build #build-content p{
+    margin-top: 20px;
+}
+
+/* Build Card stylling */
+.BuildCard #buildCard-content img{
+    background-color: #5658DD;
+    border-radius: 50%;
+}
+.BuildCard #buildCard-content{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+ .BuildCard #buildCard-content div{
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+
+ /* Workflow stylling */
+ .workflow #workflow-content{
+     color: white;
+     padding: 10px;
+ }
+
+ .workflow #workflow-content h1{
+     font-size: 3em;
+ }
+
+ .workflow #workflow-content p{
+     margin-top: 10px;
+ }
+
+ /* stylling for card content */
+ .card #card-content{
+     display: flex;
+     justify-content: center;
+     color: white;
+     margin-top: 50px;
+ }
+
+ /* Stylling for footer */
+ .footer #footer-content p{
+        margin-top: 20px;
+ }
+ .footer #footer-content h1{
+     font-size: 3em;
+ }
+ .footer #purpleBox{
+     height: 10em;
+     width: 85em;
+ }
+ .footer #purpleBox{
+    display: flex;
+    justify-content: space-between;
+ }
+ .footer #purpleBox h2{
+     color: white;
+     margin-top: 1.8em;
+ }
+
+ .footer #purpleBox input{
+     height: 3em;
+     width: 20em;
+     margin-top: 3.5em;
+     padding: 10px;
+     outline: none;
+ }
+
+ #footerLinks li{
+     list-style: none;
+     /* float: right */
+ }
+ #footerLinks{
+     color: white;
+     display: flex;
+     justify-content: space-between;
+     margin-top: 60px;
+     padding: 20px;
+ }
+
+ #footerLinks #icons{
+    margin-right: -10em;
+ }
+
+ #footerLinks #icons li{
+     color: #ACADFF;
+ }
+
+ #footerLinks img{
+    margin-left: -10em;
+ }
+
+ #icons li{
+     display: inline;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ #links li{
+     display: inline;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ #purpleBox{
+     margin: 30px;
+ }
