@@ -7,7 +7,7 @@ import Footer from './Components/footer/footer';
 import Landing from './Components/cover/coverLanding';
 import Building from './Components/cover/coverBuild';
 import Workflow from './Components/cover/coverWorkflow';
-import Card from './Components/cover/workflowCard';
+// import Card from './Components/cover/workflowCard';
 
 
 ReactDOM.render(
